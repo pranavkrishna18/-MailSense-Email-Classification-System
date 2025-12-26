@@ -172,13 +172,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 👥 Team Members
 
-* **Ashish Muppalla** – Machine Learning Engineer
-* **Pranav Krishna** – Machine Learning Engineer
-* **Taraka Prabhu** – Machine Learning Engineer
-* **Nikhil** – Machine Learning Engineer
-* **Suneel** – Machine Learning Engineer
 
 ---
 
