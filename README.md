@@ -166,7 +166,7 @@ http://127.0.0.1:5000
 
 ## 🎓 Project Information
 
-* **Project Type:** Final Year Major Project (GenAI)
+
 * **Department:** Computer Science & Engineering
 * **University:** SRM University AP
 
