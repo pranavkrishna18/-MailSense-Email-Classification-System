@@ -1,5 +1,5 @@
 
-# 📧 MailSense – AI Email Classification System
+# 📧 MailSense – Email Classification System
 
 MailSense is a **GenAI-powered intelligent email classification system** designed to automatically categorize emails using **Machine Learning and Natural Language Processing (NLP)** techniques.  
 The system improves productivity by identifying important emails and filtering unwanted messages such as spam and promotions.
